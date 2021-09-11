@@ -1,4 +1,5 @@
 //function overloading = same names of object.
+//polymorphism
 
 public class oops_q1 
 {

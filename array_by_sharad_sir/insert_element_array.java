@@ -1,4 +1,6 @@
 
+// This is array program by  rishabh
+
 import java.util.*;
 
 
